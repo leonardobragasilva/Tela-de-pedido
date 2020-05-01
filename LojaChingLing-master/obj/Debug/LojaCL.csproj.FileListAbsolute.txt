@@ -1,0 +1,33 @@
+C:\LojaChingLing-master\bin\Debug\LojaCL.exe.config
+C:\LojaChingLing-master\bin\Debug\LojaCL.exe
+C:\LojaChingLing-master\bin\Debug\LojaCL.pdb
+C:\LojaChingLing-master\obj\Debug\LojaCL.csprojAssemblyReference.cache
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmCrudCliente.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmCrudProduto.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmCrudUsuario.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmPrincipal.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmVenda.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.Properties.Resources.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.csproj.GenerateResource.cache
+C:\LojaChingLing-master\obj\Debug\LojaCL.exe
+C:\LojaChingLing-master\obj\Debug\LojaCL.pdb
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmLogin1.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmCartao.resources
+C:\LojaChingLing-master\obj\Debug\LojaCL.FrmPedido.resources
+C:\Users\Pedro h\Downloads\LojaChingLing-master\bin\Debug\LojaCL.exe.config
+C:\Users\Pedro h\Downloads\LojaChingLing-master\bin\Debug\LojaCL.exe
+C:\Users\Pedro h\Downloads\LojaChingLing-master\bin\Debug\LojaCL.pdb
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.csprojAssemblyReference.cache
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.FrmCartao.resources
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.FrmCrudCliente.resources
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.FrmCrudProduto.resources
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.FrmCrudUsuario.resources
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.FrmLogin1.resources
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.FrmPedido.resources
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.FrmPrincipal.resources
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.FrmVenda.resources
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.Properties.Resources.resources
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.csproj.GenerateResource.cache
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.csproj.CoreCompileInputs.cache
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.exe
+C:\Users\Pedro h\Downloads\LojaChingLing-master\obj\Debug\LojaCL.pdb
